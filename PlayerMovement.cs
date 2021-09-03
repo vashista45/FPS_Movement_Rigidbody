@@ -18,8 +18,8 @@ public class PlayerMovement : MonoBehaviour {
     private float sensMultiplier = 1f;
     
     //Movement
-    public float moveSpeed = 4500;
-    public float maxSpeed = 20;
+    public float moveSpeed = 4508;
+    public float maxSpeed = 25;
     public bool grounded;
     public LayerMask whatIsGround;
     
